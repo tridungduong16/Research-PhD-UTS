@@ -1,0 +1,9 @@
+README.md
+setup.py
+searchfair/__init__.py
+searchfair/classifiers.py
+searchfair.egg-info/PKG-INFO
+searchfair.egg-info/SOURCES.txt
+searchfair.egg-info/dependency_links.txt
+searchfair.egg-info/requires.txt
+searchfair.egg-info/top_level.txt
